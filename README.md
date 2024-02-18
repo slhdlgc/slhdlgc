@@ -1,6 +1,2 @@
-Hi there 👋 I'm Salih
-
-- 🔭 I’m currently working on studying
-- 🌱 I’m currently learning Front-end
-- 👯 I’m looking to collaborate on Udemig
+🖐 Hello, I'm Salih. I am trying to become a software developer. I am still training, but I know I will succeed in this job. I am taking firm steps towards becoming a full stack.
 
